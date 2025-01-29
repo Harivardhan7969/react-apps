@@ -122,6 +122,7 @@ const Login = () => {
               className="w-full px-3 py-2 border rounded-lg focus:outline-none focus:ring">
               <option value="customer">Customer</option>
               <option value="seller">Seller</option>
+              <option value="admin">Admin</option>
             </select>
           </div>
 
