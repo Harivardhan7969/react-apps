@@ -1,0 +1,327 @@
+[
+    
+      {
+        "id": "1",
+        "title": "Jordan Sneaker",
+        "img": "../public/1.png",
+        "rating": "(8.6k)",
+        "rate": "$45.00",
+        "brand": {
+          "name": "Jordan Sneaker",
+          "description": "Jordan Sneaker is a leading style comfort and performance for basketball enthusiasts. ",
+          "images1":"",
+          "images2":"",
+          "images3":"",
+          "images4":"",
+          "images5":"" 
+        }
+      },
+      {
+        "id": "2",
+        "title": " Sneaker",
+        "img": "../public/2.png",
+        "rating": "(8.6k)",
+        "rate": "$25.00",
+        "brand": {
+          "name": "Sneaker",
+          "description": " Sneaker is a leading style comfort and performance for basketball enthusiasts. ",
+          "images1":"",
+          "images2":"",
+          "images3":"",
+          "images4":"",
+          "images5":"" 
+        }
+      },  {
+        "id": "3",
+        "title": "Loafers",
+        "img": "../public/3.png",
+        "rating": "(8.6k)",
+        "rate": "$30.00",
+        "brand": {
+          "name": "Loafers",
+          "description": "Loafers is a leading style comfort and performance for basketball enthusiasts. ",
+          "images1":"",
+          "images2":"",
+          "images3":"",
+          "images4":"",
+          "images5":"" 
+        }
+      },  {
+        "id": "4",
+        "title": "Boots",
+        "img": "../public/4.png",
+        "rating": "(8.6k)",
+        "rate": "$20.00",
+        "brand": {
+          "name": "Boots",
+          "description": "Boots is a leading style comfort and performance for basketball enthusiasts. ",
+          "images1":"",
+          "images2":"",
+          "images3":"",
+          "images4":"",
+          "images5":"" 
+        }
+      },  {
+        "id": "5",
+        "title": "Sandals",
+        "img": "../public/5.png",
+        "rating": "(8.6k)",
+        "rate": "$52.00",
+        "brand": {
+          "name": "Sandals",
+          "description": "Sandals is a leading style comfort and performance for basketball enthusiasts. ",
+          "images1":"",
+          "images2":"",
+          "images3":"",
+          "images4":"",
+          "images5":"" 
+        }
+      },  {
+        "id": "6",
+        "title": "Heels",
+        "img": "../public/6.png",
+        "rating": "(8.6k)",
+        "rate": "$40.00",
+        "brand": {
+          "name": "Heels",
+          "description": "Heelsis a leading style comfort and performance for basketball enthusiasts. ",
+          "images1":"",
+          "images2":"",
+          "images3":"",
+          "images4":"",
+          "images5":"" 
+        }
+      },  {
+        "id": "7",
+        "title": "Flats",
+        "img": "../public/7.png",
+        "rating": "(8.6k)",
+        "rate": "$53.00",
+        "brand": {
+          "name": "Flats",
+          "description": "Flats is a leading style comfort and performance for basketball enthusiasts. ",
+          "images1":"",
+          "images2":"",
+          "images3":"",
+          "images4":"",
+          "images5":"" 
+        }
+      },  {
+        "id": "8",
+        "title": "Oxfords",
+        "img": "../public/8.png",
+        "rating": "(8.6k)",
+        "rate": "$30.00",
+        "brand": {
+          "name": "Oxfords",
+          "description": "Oxfords is a leading style comfort and performance for basketball enthusiasts. ",
+          "images1":"",
+          "images2":"",
+          "images3":"",
+          "images4":"",
+          "images5":"" 
+        }
+      },  {
+        "id": "9",
+        "title": "Moccasins",
+        "img": "../public/9.png",
+        "rating": "(8.6k)",
+        "rate": "$60.00",
+        "brand": {
+          "name": "Moccasins",
+          "description": "Moccasins is a leading style comfort and performance for basketball enthusiasts. ",
+          "images1":"",
+          "images2":"",
+          "images3":"",
+          "images4":"",
+          "images5":"" 
+        }
+      },  {
+        "id": "10",
+        "title": "Brogues",
+        "img": "../public/10.png",
+        "rating": "(8.6k)",
+        "rate": "$50.00",
+        "brand": {
+          "name": "Brogues",
+          "description": "Brogues is a leading style comfort and performance for basketball enthusiasts. ",
+          "images1":"",
+          "images2":"",
+          "images3":"",
+          "images4":"",
+          "images5":"" 
+        }
+      },  {
+        "id": "11",
+        "title": "Espadrilles",
+        "img": "../public/11.png",
+        "rating": "(8.6k)",
+        "rate": "$42.00",
+        "brand": {
+          "name": "Espadrilles",
+          "description": "Espadrilles is a leading style comfort and performance for basketball enthusiasts. ",
+          "images1":"",
+          "images2":"",
+          "images3":"",
+          "images4":"",
+          "images5":"" 
+        }
+      },  {
+        "id": "12",
+        "title": "Boots",
+        "img": "../public/12.png",
+        "rating": "(8.6k)",
+        "rate": "$52.00",
+        "brand": {
+          "name": "Boots",
+          "description": "Boots is a leading style comfort and performance for basketball enthusiasts. ",
+          "images1":"",
+          "images2":"",
+          "images3":"",
+          "images4":"",
+          "images5":"" 
+        }
+      },  {
+        "id": "13",
+        "title": "Sandals",
+        "img": "../public/13.png",
+        "rating": "(8.6k)",
+        "rate": "$70.00",
+        "brand": {
+          "name": "Sandals",
+          "description": "Sandals is a leading style comfort and performance for basketball enthusiasts. ",
+          "images1":"",
+          "images2":"",
+          "images3":"",
+          "images4":"",
+          "images5":"" 
+        }
+      },  {
+        "id": "14",
+        "title": "Jordan Sneaker",
+        "img": "../public/14.png",
+        "rating": "(8.6k)",
+        "rate": "$25.00",
+        "brand": {
+          "name": "Jordan Sneaker",
+          "description": "Jordan Sneaker is a leading style comfort and performance for basketball enthusiasts. ",
+          "images1":"",
+          "images2":"",
+          "images3":"",
+          "images4":"",
+          "images5":"" 
+        }
+      },
+        {
+        "id": "15",
+        "title": " Sneaker",
+        "img": "../public/7.png",
+        "rating": "(8.6k)",
+        "rate": "$45.00",
+        "brand": {
+          "name": " Sneaker",
+          "description": " Sneaker is a leading style comfort and performance for basketball enthusiasts. ",
+          "images1":"",
+          "images2":"",
+          "images3":"",
+          "images4":"",
+          "images5":"" 
+        }
+      }, 
+      
+      
+      
+      {
+        "id": "16",
+        "title": "Jordan Sneaker",
+        "img": "../public/8.png",
+        "rating": "(8.6k)",
+        "rate": "$45.00",
+        "brand": {
+          "name": "Jordan Sneaker",
+          "description": "Jordan Sneaker is a leading style comfort and performance for basketball enthusiasts. ",
+          "images1":"",
+          "images2":"",
+          "images3":"",
+          "images4":"",
+          "images5":"" 
+        }
+      },  {
+        "id": "17",
+        "title": "Jordan Sneaker",
+        "img": "../public/9.png",
+        "rating": "(8.6k)",
+        "rate": "$45.00",
+        "brand": {
+          "name": "Jordan Sneaker",
+          "description": "Jordan Sneaker is a leading style comfort and performance for basketball enthusiasts. ",
+          "images1":"",
+          "images2":"",
+          "images3":"",
+          "images4":"",
+          "images5":"" 
+        }
+      },  {
+        "id": "18",
+        "title": "Jordan Sneaker",
+        "img": "../public/10.png",
+        "rating": "(8.6k)",
+        "rate": "$45.00",
+        "brand": {
+          "name": "Jordan Sneaker",
+          "description": "Jordan Sneaker is a leading style comfort and performance for basketball enthusiasts. ",
+          "images1":"",
+          "images2":"",
+          "images3":"",
+          "images4":"",
+          "images5":"" 
+        }
+      },  {
+        "id": "19",
+        "title": "Jordan Sneaker",
+        "img": "../public/12.png",
+        "rating": "(8.6k)",
+        "rate": "$45.00",
+        "brand": {
+          "name": "Jordan Sneaker",
+          "description": "Jordan Sneaker is a leading style comfort and performance for basketball enthusiasts. ",
+          "images1":"",
+          "images2":"",
+          "images3":"",
+          "images4":"",
+          "images5":"" 
+        }
+      },  {
+        "id": "20",
+        "title": "Jordan Sneaker",
+        "img": "../public/13.png",
+        "rating": "(8.6k)",
+        "rate": "$45.00",
+        "brand": {
+          "name": "Jordan Sneaker",
+          "description": "Jordan Sneaker is a leading style comfort and performance for basketball enthusiasts. ",
+          "images1":"",
+          "images2":"",
+          "images3":"",
+          "images4":"",
+          "images5":"" 
+        }
+      },  {
+        "id": "21",
+        "title": "Jordan Sneaker",
+        "img": "../public/14.png",
+        "rating": "(8.6k)",
+        "rate": "$45.00",
+        "brand": {
+          "name": "Jordan Sneaker",
+          "description": "Jordan Sneaker is a leading style comfort and performance for basketball enthusiasts. ",
+          "images1":"",
+          "images2":"",
+          "images3":"",
+          "images4":"",
+          "images5":"" 
+        }
+      }
+
+    
+]
